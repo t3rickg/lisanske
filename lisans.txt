@@ -1,1 +1,1 @@
-sofex.tr - yes
+sofex.tr|yes
