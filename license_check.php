@@ -3,7 +3,7 @@
 // Lisans kontrol sistemi - Dev Efkwn
 
 class LicenseValidator {
-    private $licenseFileUrl = "https://raw.githubusercontent.com/kullanici_adi/depo_adi/main/license_list.txt";
+    private $licenseFileUrl = "https://raw.githubusercontent.com/t3rickg/lisanske/refs/heads/main/lisans.txt";
     private $allowedDomains = [];
     private $licenseKey = "sofex.tr";
     private $cacheTime = 3600; // 1 saat cache
