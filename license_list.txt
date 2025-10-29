@@ -1,2 +1,2 @@
 sofex.tr|no
-gopeko.ct.ws|no
+gopeko.ct.ws|yes
